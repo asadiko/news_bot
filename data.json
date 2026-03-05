@@ -1,0 +1,53 @@
+{
+  "initialized": true,
+  "keywords": [
+    "Uzbekistan",
+    "мигрант",
+    "migrant",
+    "Узбекистан",
+    "Мигранты",
+    "Мигранты из Узбекистана",
+    "Migrants from Uzbekistan",
+    "узбек",
+    "Посольство Узбекистана в Латвии",
+    "Embassy of Uzbekistan in Latvia",
+    "uzbek",
+    "border"
+  ],
+  "feeds": [
+    "https://news.google.com/rss?hl=ru&gl=RU&ceid=RU:ru",
+    "https://eng.lsm.lv/rss/?lang=en&catid=315",
+    "https://apollo.lv/rss",
+    "https://diena.lv/rss",
+    "https://bb.lv/rss",
+    "https://www.rbc.ru/rss/news",
+    "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
+    "https://www.kommersant.ru/rss/main.xml",
+    "https://lenta.ru/rss/news",
+    "https://www.gazeta.ru/export/rss/lenta.xml",
+    "https://www.vedomosti.ru/rss/news",
+    "https://iz.ru/xml/rss/all.xml",
+    "https://rg.ru/xml/index.xml",
+    "https://ria.ru/export/rss2/archive/index.xml",
+    "https://tass.ru/rss/v2.xml",
+    "https://www.interfax.ru/rss.asp",
+    "http://www.nedelia.lt/rss.xml",
+    "https://www.iltalehti.fi/rss/rss.xml",
+    "https://finlandtoday.fi/feed",
+    "https://centrasia.org/rss/redtram.xml",
+    "https://news.postimees.ee/rss"
+  ],
+  "tg_channels": [
+    "fergananews",
+    "delfi_lv",
+    "baltnews",
+    "rus_tvnetlv",
+    "rusdelfi_lv",
+    "logistics_inside",
+    "volna_lt",
+    "volna_lv",
+    "news_lv"
+  ],
+  "sent_links": {
+  }
+}
